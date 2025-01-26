@@ -24,7 +24,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;Instruction Manual of ME</h2>
+<h2> 👨🏻‍💻 &nbsp;Instruction Manual of Hamatai</h2>
 
 ```yaml
 name: Taishi Hamano
